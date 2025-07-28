@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="m1">+</string>
+    <string name="m2">-</string>
+    <string name="m3">*</string>
+    <string name="m4">/</string>
+    <string name="m5">Enter First Number</string>
+    <string name="m6">Enter Second Number</string>
+    <string name="m7">Result</string>
+    <string name="m8">Calculator</string>
+</resources>
