@@ -9,10 +9,10 @@ A clean and responsive basic calculator application built using **Java** and **L
 - Soft color-coded buttons for each operation (blue, pink, yellow, green)
 - Styled fonts for better readability
 
-**Functional Arithmetic Operations**
-➕ Addition
-➖ Subtraction
-✖️ Multiplication
+**Functional Arithmetic Operations**<br>
+➕ Addition<br>
+➖ Subtraction<br>
+✖️ Multiplication<br>
 ➗ Division (with division-by-zero check)
 
 **Live Result Display**
@@ -49,6 +49,10 @@ A clean and responsive basic calculator application built using **Java** and **L
    - `/` for division
 3. View the result displayed on screen and in a toast notification.
 4. If division by zero is attempted, an error toast is shown instead.
+
+## Author
+Yashvi Patodi<br>
+Mobile Application Development
 
 
 
